@@ -1,0 +1,5 @@
+com.assetManagment.assetManagement
+com.assetManagment.assetManagement.controller
+com.assetManagment.assetManagement.dao
+com.assetManagment.assetManagement.entities
+com.assetManagment.assetManagement.services
