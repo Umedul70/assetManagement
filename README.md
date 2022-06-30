@@ -23,7 +23,3 @@ use of these assets and keep a track of them.
 - Spring boot 
 - Spring JPA
 - H2 Database
-## Tech Stack used
-- Spring boot 
-- Spring JPA
-- H2 Database
